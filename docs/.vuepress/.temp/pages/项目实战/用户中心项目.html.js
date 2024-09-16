@@ -1,0 +1,16 @@
+import comp from "D:/00a/piZhe/First/vuePress/docs/.vuepress/.temp/pages/项目实战/用户中心项目.html.vue"
+const data = JSON.parse("{\"path\":\"/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/%E7%94%A8%E6%88%B7%E4%B8%AD%E5%BF%83%E9%A1%B9%E7%9B%AE.html\",\"title\":\"用户中心项目\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"headers\":[{\"level\":2,\"title\":\"项目简介\",\"slug\":\"项目简介\",\"link\":\"#项目简介\",\"children\":[{\"level\":3,\"title\":\"项目介绍\",\"slug\":\"项目介绍\",\"link\":\"#项目介绍\",\"children\":[]},{\"level\":3,\"title\":\"项目特点\",\"slug\":\"项目特点\",\"link\":\"#项目特点\",\"children\":[]},{\"level\":3,\"title\":\"项目收获\",\"slug\":\"项目收获\",\"link\":\"#项目收获\",\"children\":[]},{\"level\":3,\"title\":\"本项目适合的同学\",\"slug\":\"本项目适合的同学\",\"link\":\"#本项目适合的同学\",\"children\":[]},{\"level\":3,\"title\":\"技术选型\",\"slug\":\"技术选型\",\"link\":\"#技术选型\",\"children\":[]}]},{\"level\":2,\"title\":\"项目大纲\",\"slug\":\"项目大纲\",\"link\":\"#项目大纲\",\"children\":[{\"level\":3,\"title\":\"第一章：项目诞生\",\"slug\":\"第一章-项目诞生\",\"link\":\"#第一章-项目诞生\",\"children\":[]},{\"level\":3,\"title\":\"第二章：项目开发\",\"slug\":\"第二章-项目开发\",\"link\":\"#第二章-项目开发\",\"children\":[]},{\"level\":3,\"title\":\"第三章：项目优化\",\"slug\":\"第三章-项目优化\",\"link\":\"#第三章-项目优化\",\"children\":[]},{\"level\":3,\"title\":\"第四章：项目上线\",\"slug\":\"第四章-项目上线\",\"link\":\"#第四章-项目上线\",\"children\":[]}]},{\"level\":2,\"title\":\"项目资料\",\"slug\":\"项目资料\",\"link\":\"#项目资料\",\"children\":[{\"level\":3,\"title\":\"学习计划\",\"slug\":\"学习计划\",\"link\":\"#学习计划\",\"children\":[]},{\"level\":3,\"title\":\"视频教程\",\"slug\":\"视频教程\",\"link\":\"#视频教程\",\"children\":[]},{\"level\":3,\"title\":\"项目笔记\",\"slug\":\"项目笔记\",\"link\":\"#项目笔记\",\"children\":[]},{\"level\":3,\"title\":\"直播大纲\",\"slug\":\"直播大纲\",\"link\":\"#直播大纲\",\"children\":[]},{\"level\":3,\"title\":\"项目源码\",\"slug\":\"项目源码\",\"link\":\"#项目源码\",\"children\":[]},{\"level\":3,\"title\":\"项目答疑\",\"slug\":\"项目答疑\",\"link\":\"#项目答疑\",\"children\":[]},{\"level\":3,\"title\":\"项目交流群\",\"slug\":\"项目交流群\",\"link\":\"#项目交流群\",\"children\":[]},{\"level\":3,\"title\":\"简历写法\",\"slug\":\"简历写法\",\"link\":\"#简历写法\",\"children\":[]},{\"level\":3,\"title\":\"项目面试题\",\"slug\":\"项目面试题\",\"link\":\"#项目面试题\",\"children\":[]}]},{\"level\":2,\"title\":\"学员反馈\",\"slug\":\"学员反馈\",\"link\":\"#学员反馈\",\"children\":[{\"level\":3,\"title\":\"项目总结\",\"slug\":\"项目总结\",\"link\":\"#项目总结\",\"children\":[]},{\"level\":3,\"title\":\"学员评价\",\"slug\":\"学员评价\",\"link\":\"#学员评价\",\"children\":[]},{\"level\":3,\"title\":\"成品展示\",\"slug\":\"成品展示\",\"link\":\"#成品展示\",\"children\":[]}]},{\"level\":2,\"title\":\"更多项目\",\"slug\":\"更多项目\",\"link\":\"#更多项目\",\"children\":[]},{\"level\":2,\"title\":\"加入学习\",\"slug\":\"加入学习\",\"link\":\"#加入学习\",\"children\":[]}],\"git\":{},\"filePathRelative\":\"项目实战/用户中心项目.md\"}")
+export { comp, data }
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

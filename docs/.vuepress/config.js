@@ -4,7 +4,6 @@ import { viteBundler } from '@vuepress/bundler-vite'
 import { searchPlugin } from '@vuepress/plugin-search'
 import { copyrightPlugin } from '@vuepress/plugin-copyright'
 import { photoSwipePlugin } from '@vuepress/plugin-photo-swipe'
-import { seoPlugin } from '@vuepress/plugin-seo'
 
 export default defineUserConfig({
   lang: 'zh-CN',
@@ -25,24 +24,8 @@ export default defineUserConfig({
     photoSwipePlugin({
       scrollToClose:true
     }),
-    seoPlugin({hostname:'短剧笔记', title: '短剧笔记',description: '短剧笔记',author: '短剧笔记',keywords: ['短剧', 'PR', 'AU','达芬奇'],
-  // image: '/path/to/your/image.jpg',
-  siteName: '笔记',
-  // twitter: {
-  //   cardType: 'summary_large_image',
-  //   site: '@yourtwitter',
-  //   creator: '@yourtwitter',
-  // },
-  og: {
-    type: 'website',
-    url: 'https://kunkun.cool',
-    title: 'pizhe',
-    description: 'pizhe',
-    image: '/images/pz.jpg',
-  },
-    }),
   ],
-  title: '快乐起来',
+  title: '无限进步',
   description: '皮喆',
   theme: defaultTheme({
     logo: '/images/pz.jpg',
@@ -52,7 +35,6 @@ export default defineUserConfig({
       { 
         text: '剪辑', 
         children: [
-          // { text: 'PR', link: '/PR/PR' },
           { text: 'ALL', link: '/PR/ALL' },
         ]
       },
@@ -67,10 +49,14 @@ export default defineUserConfig({
         ]
       },
       { text: 'URL', link: 'https://kunkun.cool/url' },
-      // { text: 'GPT3.5', link: 'https://chat18.aichatos8.com/' },
-      { text: '作者', link: 'https://kunkun.cool/name' },
-      // { text: '加入我们', link: 'https://yc.kunkun.cool/recruit.html' }
-      { text: '年度总结', link: '/YEAR/' }
+      { 
+        text: '作者', 
+        children: [
+          { text: '自我介绍', link: 'https://kunkun.cool/name' },
+          { text: '年度总结', link: '/YEAR/' },
+        ]
+      },
+      { text: 'GitHub', link: 'https://github.com/pizhecode'},
     ]
     
    

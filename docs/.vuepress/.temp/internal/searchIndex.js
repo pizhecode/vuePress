@@ -7,21 +7,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "年度总结",
-    "headers": [
-      {
-        "level": 2,
-        "title": "2024",
-        "slug": "_2024",
-        "link": "#_2024",
-        "children": []
-      }
-    ],
-    "path": "/YEAR/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "集合",
     "headers": [
       {
@@ -3484,6 +3469,21 @@ export const searchIndex = [
     "title": "",
     "headers": [],
     "path": "/WEB/NGINX.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "年度总结",
+    "headers": [
+      {
+        "level": 2,
+        "title": "2024",
+        "slug": "_2024",
+        "link": "#_2024",
+        "children": []
+      }
+    ],
+    "path": "/YEAR/",
     "pathLocale": "/",
     "extraFields": []
   },

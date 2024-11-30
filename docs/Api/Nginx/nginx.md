@@ -1,4 +1,5 @@
-```
+# Nginx
+
 重启
 
 cd /usr/local/nginx/sbin ./nginx -s reload
@@ -12,5 +13,3 @@ sudo kill -9 12345
 强制停止
 
 pkill -9 nginx
-```
-

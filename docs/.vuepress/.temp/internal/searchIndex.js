@@ -108,6 +108,21 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "年度总结",
+    "headers": [
+      {
+        "level": 2,
+        "title": "2024",
+        "slug": "_2024",
+        "link": "#_2024",
+        "children": []
+      }
+    ],
+    "path": "/YEAR/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "BOOTSTRAP响应式",
     "headers": [
       {
@@ -3466,24 +3481,72 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "",
+    "title": "React",
     "headers": [],
-    "path": "/WEB/NGINX.html",
+    "path": "/WEB/react.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "年度总结",
-    "headers": [
-      {
-        "level": 2,
-        "title": "2024",
-        "slug": "_2024",
-        "link": "#_2024",
-        "children": []
-      }
-    ],
-    "path": "/YEAR/",
+    "title": "Uniapp",
+    "headers": [],
+    "path": "/WEB/uniapp.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Vue",
+    "headers": [],
+    "path": "/WEB/vue.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "C",
+    "headers": [],
+    "path": "/Api/C/c.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Go",
+    "headers": [],
+    "path": "/Api/Go/go.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "C++",
+    "headers": [],
+    "path": "/Api/C__/c__.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "JAVA",
+    "headers": [],
+    "path": "/Api/Java/java.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Nginx",
+    "headers": [],
+    "path": "/Api/Nginx/nginx.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "NodeJS",
+    "headers": [],
+    "path": "/Api/NodeJS/nodejs.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Python",
+    "headers": [],
+    "path": "/Api/Python/Python.html",
     "pathLocale": "/",
     "extraFields": []
   },

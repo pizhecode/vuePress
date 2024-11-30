@@ -28,8 +28,8 @@ export default defineUserConfig({
   title: '无限进步',
   description: '皮喆',
   theme: defaultTheme({
-    logo: '/images/pz.jpg',
-    logoDark: '/images/pz.jpg',
+    logo: 'https://s21.ax1x.com/2024/11/04/pAsFmxP.md.jpg',
+    logoDark: 'https://s21.ax1x.com/2024/11/04/pAsFmxP.md.jpg',
     navbar: [
       { text: '首页', link: '/index' },
       { 
@@ -39,13 +39,27 @@ export default defineUserConfig({
         ]
       },
       { 
-        text: 'WEB', 
+        text: '前端', 
         children: [
           { text: 'HTML', link: '/WEB/HTML' },
           { text: 'CSS', link: '/WEB/CSS' },
           { text: 'BOOTSTRAP', link: '/WEB/BOOTSTRAP' },
           { text: 'JS', link: '/WEB/JS' },
-          { text: 'NGINX', link: '/WEB/NGINX' }
+          { text: 'Vue', link: '/WEB/vue' },
+          { text: 'React', link: '/WEB/react' },
+          { text: 'Uniapp', link: '/WEB/uniapp' },
+        ]
+      },
+      { 
+        text: '后端', 
+        children: [
+          { text: 'JAVA', link: '/Api/Java/java' },
+          { text: 'NodeJS', link: '/Api/NodeJS/nodejs' },
+          { text: 'GO', link: '/Api/Go/go' },
+          { text: 'C', link: '/Api/C/c' },
+          { text: 'C++', link: '/Api/C++/c++' },
+          { text: 'Python', link: '/Api/Python/python' },
+          { text: 'Nginx', link: '/Api/WEB/NGINX' },
         ]
       },
       { text: 'URL', link: 'https://kunkun.cool/url' },
@@ -54,6 +68,8 @@ export default defineUserConfig({
         children: [
           { text: '自我介绍', link: 'https://kunkun.cool/name' },
           { text: '年度总结', link: '/YEAR/' },
+          { text: '小黑子', link: 'https://kunkun.cool/kunkun' },
+          { text: '音乐', link: 'https://kunkun.cool/music/index' },
         ]
       },
       { text: 'GitHub', link: 'https://github.com/pizhecode'},

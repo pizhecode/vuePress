@@ -8,13 +8,8 @@ actions:
     link: https://github.com/pizhecode
     type: secondary
 
-  - text: 音乐
-    link: https://kunkun.cool/music/index
-    type: secondary
-
-
   - text: 导航
-    link: https://kunkun.cool/url
+    link: https://blog/wuxianjinbu.cn/url.html
     type: secondary
 
   # - text: Introduction
@@ -34,7 +29,7 @@ footer: MIT Licensed | Copyright © 2024 | by pizhe
 ---
 
 <footer>
-    <p style="text-align: center;"><a href="https://beian.miit.gov.cn" target="_blank">豫ICP备2024068470号-1</a></p>
+    <p style="text-align: center;"><a href="https://beian.miit.gov.cn" target="_blank">豫ICP备2025107147号-1</a></p>
 </footer>
 
 <!-- This is the content of home page. Check [Home Page Docs][default-theme-home] for more details.

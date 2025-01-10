@@ -7,7 +7,7 @@ import { photoSwipePlugin } from '@vuepress/plugin-photo-swipe'
 
 export default defineUserConfig({
   lang: 'zh-CN',
-  hostname:'https://kunkun.cool',
+  hostname:'https://wuxinjinbu.cn',
   plugins: [
     searchPlugin({
       locales: {
@@ -58,18 +58,16 @@ export default defineUserConfig({
           { text: 'GO', link: '/Api/Go/go' },
           { text: 'C', link: '/Api/C/c' },
           { text: 'C++', link: '/Api/C++/c++' },
-          { text: 'Python', link: '/Api/Python/python' },
-          { text: 'Nginx', link: '/Api/WEB/NGINX' },
+          { text: 'Python', link: '/Api/Python/Python' },
+          { text: 'Nginx', link: '/Api/Nginx/nginx' },
         ]
       },
-      { text: 'URL', link: 'https://kunkun.cool/url' },
+      { text: 'URL', link: 'https://blog.wuxinjinbu.cn/url.html' },
       { 
         text: '作者', 
         children: [
-          { text: '自我介绍', link: 'https://kunkun.cool/name' },
+          { text: '自我介绍', link: 'https://blog.wuxinjinbu.cn/about.html' },
           { text: '年度总结', link: '/YEAR/' },
-          { text: '小黑子', link: 'https://kunkun.cool/kunkun' },
-          { text: '音乐', link: 'https://kunkun.cool/music/index' },
         ]
       },
       { text: 'GitHub', link: 'https://github.com/pizhecode'},

@@ -12,4 +12,4 @@ sudo kill -9 12345
 
 强制停止
 
-pkill -9 nginx
+pkill -9 nginx 

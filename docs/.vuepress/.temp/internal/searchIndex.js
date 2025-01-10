@@ -7,122 +7,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "集合",
-    "headers": [
-      {
-        "level": 2,
-        "title": "PR",
-        "slug": "pr",
-        "link": "#pr",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "PS",
-        "slug": "ps",
-        "link": "#ps",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "AU",
-        "slug": "au",
-        "link": "#au",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "达芬奇",
-        "slug": "达芬奇",
-        "link": "#达芬奇",
-        "children": []
-      }
-    ],
-    "path": "/PR/ALL.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "短剧",
-    "headers": [
-      {
-        "level": 2,
-        "title": "pr短剧",
-        "slug": "pr短剧",
-        "link": "#pr短剧",
-        "children": [
-          {
-            "level": 3,
-            "title": "男频",
-            "slug": "男频",
-            "link": "#男频",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "女频",
-            "slug": "女频",
-            "link": "#女频",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "如何配置音乐和音效",
-        "slug": "如何配置音乐和音效",
-        "link": "#如何配置音乐和音效",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "AU调整声音",
-        "slug": "au调整声音",
-        "link": "#au调整声音",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "iZotope RX 8 Audio Editor修改声音",
-        "slug": "izotope-rx-8-audio-editor修改声音",
-        "link": "#izotope-rx-8-audio-editor修改声音",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "达芬奇进行视频降噪",
-        "slug": "达芬奇进行视频降噪",
-        "link": "#达芬奇进行视频降噪",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "PR调色",
-        "slug": "pr调色",
-        "link": "#pr调色",
-        "children": []
-      }
-    ],
-    "path": "/PR/PR.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "年度总结",
-    "headers": [
-      {
-        "level": 2,
-        "title": "2024",
-        "slug": "_2024",
-        "link": "#_2024",
-        "children": []
-      }
-    ],
-    "path": "/YEAR/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "BOOTSTRAP响应式",
     "headers": [
       {
@@ -3502,16 +3386,125 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "C",
-    "headers": [],
-    "path": "/Api/C/c.html",
+    "title": "年度总结",
+    "headers": [
+      {
+        "level": 2,
+        "title": "2024",
+        "slug": "_2024",
+        "link": "#_2024",
+        "children": []
+      }
+    ],
+    "path": "/YEAR/",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "Go",
+    "title": "集合",
+    "headers": [
+      {
+        "level": 2,
+        "title": "PR",
+        "slug": "pr",
+        "link": "#pr",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "PS",
+        "slug": "ps",
+        "link": "#ps",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "AU",
+        "slug": "au",
+        "link": "#au",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "达芬奇",
+        "slug": "达芬奇",
+        "link": "#达芬奇",
+        "children": []
+      }
+    ],
+    "path": "/PR/ALL.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "短剧",
+    "headers": [
+      {
+        "level": 2,
+        "title": "pr短剧",
+        "slug": "pr短剧",
+        "link": "#pr短剧",
+        "children": [
+          {
+            "level": 3,
+            "title": "男频",
+            "slug": "男频",
+            "link": "#男频",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "女频",
+            "slug": "女频",
+            "link": "#女频",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "如何配置音乐和音效",
+        "slug": "如何配置音乐和音效",
+        "link": "#如何配置音乐和音效",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "AU调整声音",
+        "slug": "au调整声音",
+        "link": "#au调整声音",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "iZotope RX 8 Audio Editor修改声音",
+        "slug": "izotope-rx-8-audio-editor修改声音",
+        "link": "#izotope-rx-8-audio-editor修改声音",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "达芬奇进行视频降噪",
+        "slug": "达芬奇进行视频降噪",
+        "link": "#达芬奇进行视频降噪",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "PR调色",
+        "slug": "pr调色",
+        "link": "#pr调色",
+        "children": []
+      }
+    ],
+    "path": "/PR/PR.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "C",
     "headers": [],
-    "path": "/Api/Go/go.html",
+    "path": "/Api/C/c.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -3538,7 +3531,30 @@ export const searchIndex = [
   },
   {
     "title": "NodeJS",
-    "headers": [],
+    "headers": [
+      {
+        "level": 2,
+        "title": "1.node介绍与使用",
+        "slug": "_1-node介绍与使用",
+        "link": "#_1-node介绍与使用",
+        "children": [
+          {
+            "level": 3,
+            "title": "1.1 Node介绍",
+            "slug": "_1-1-node介绍",
+            "link": "#_1-1-node介绍",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "1.2 node.js的优势",
+            "slug": "_1-2-node-js的优势",
+            "link": "#_1-2-node-js的优势",
+            "children": []
+          }
+        ]
+      }
+    ],
     "path": "/Api/NodeJS/nodejs.html",
     "pathLocale": "/",
     "extraFields": []
@@ -3547,6 +3563,13 @@ export const searchIndex = [
     "title": "Python",
     "headers": [],
     "path": "/Api/Python/Python.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Go",
+    "headers": [],
+    "path": "/Api/Go/go.html",
     "pathLocale": "/",
     "extraFields": []
   },

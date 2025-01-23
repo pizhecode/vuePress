@@ -7,7 +7,7 @@ import { photoSwipePlugin } from '@vuepress/plugin-photo-swipe'
 
 export default defineUserConfig({
   lang: 'zh-CN',
-  hostname:'https://wuxinjinbu.cn',
+  hostname:'https://wuxianjinbu.cn',
   plugins: [
     searchPlugin({
       locales: {
@@ -53,20 +53,20 @@ export default defineUserConfig({
       { 
         text: '后端', 
         children: [
-          { text: 'JAVA', link: '/Api/Java/java' },
-          { text: 'NodeJS', link: '/Api/NodeJS/nodejs' },
-          { text: 'GO', link: '/Api/Go/go' },
-          { text: 'C', link: '/Api/C/c' },
-          { text: 'C++', link: '/Api/C++/c++' },
-          { text: 'Python', link: '/Api/Python/Python' },
+          // { text: 'JAVA', link: '/Api/Java/java' },
+          // { text: 'NodeJS', link: '/Api/NodeJS/nodejs' },
+          // { text: 'GO', link: '/Api/Go/go' },
+          // { text: 'C', link: '/Api/C/c' },
+          // { text: 'C++', link: '/Api/C++/c++' },
+          // { text: 'Python', link: '/Api/Python/Python' },
           { text: 'Nginx', link: '/Api/Nginx/nginx' },
         ]
       },
-      { text: 'URL', link: 'https://blog.wuxinjinbu.cn/url.html' },
+      { text: 'URL', link: 'https://blog.wuxianjinbu.cn/url.html' },
       { 
         text: '作者', 
         children: [
-          { text: '自我介绍', link: 'https://blog.wuxinjinbu.cn/about.html' },
+          { text: '自我介绍', link: 'https://blog.wuxianjinbu.cn/about.html' },
           { text: '年度总结', link: '/YEAR/' },
         ]
       },

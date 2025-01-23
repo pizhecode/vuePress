@@ -3580,16 +3580,16 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Nginx",
+    "title": "JAVA",
     "headers": [],
-    "path": "/Api/Nginx/nginx.html",
+    "path": "/Api/Java/java.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "JAVA",
+    "title": "Nginx",
     "headers": [],
-    "path": "/Api/Java/java.html",
+    "path": "/Api/Nginx/nginx.html",
     "pathLocale": "/",
     "extraFields": []
   },

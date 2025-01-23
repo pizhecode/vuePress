@@ -1,3 +1,3 @@
-import comp from "E:/999-github/vuePress/docs/.vuepress/.temp/pages/PR/ALL.html.vue"
+import comp from "E:/vuepress/docs/.vuepress/.temp/pages/PR/ALL.html.vue"
 const data = JSON.parse("{\"path\":\"/PR/ALL.html\",\"title\":\"集合\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"headers\":[{\"level\":2,\"title\":\"PR\",\"slug\":\"pr\",\"link\":\"#pr\",\"children\":[]},{\"level\":2,\"title\":\"PS\",\"slug\":\"ps\",\"link\":\"#ps\",\"children\":[]},{\"level\":2,\"title\":\"AU\",\"slug\":\"au\",\"link\":\"#au\",\"children\":[]},{\"level\":2,\"title\":\"达芬奇\",\"slug\":\"达芬奇\",\"link\":\"#达芬奇\",\"children\":[]}],\"git\":{\"updatedTime\":1726491624000,\"contributors\":[{\"name\":\"皮喆\",\"email\":\"pizhecode@outlook.com\",\"commits\":1}]},\"filePathRelative\":\"PR/ALL.md\"}")
 export { comp, data }

@@ -7,6 +7,164 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "达芬奇 DaVinci Resolve",
+    "headers": [
+      {
+        "level": 3,
+        "title": "🎬达芬奇常用快捷键🚀",
+        "slug": "🎬达芬奇常用快捷键🚀",
+        "link": "#🎬达芬奇常用快捷键🚀",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "时间线设置",
+        "slug": "时间线设置",
+        "link": "#时间线设置",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "镜头防抖",
+        "slug": "镜头防抖",
+        "link": "#镜头防抖",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "声音调节",
+        "slug": "声音调节",
+        "link": "#声音调节",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "常用特效",
+        "slug": "常用特效",
+        "link": "#常用特效",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "磨皮参数",
+        "slug": "磨皮参数",
+        "link": "#磨皮参数",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "达芬奇导出设置",
+        "slug": "达芬奇导出设置",
+        "link": "#达芬奇导出设置",
+        "children": []
+      }
+    ],
+    "path": "/dfq/dfq20250123.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "集合",
+    "headers": [
+      {
+        "level": 2,
+        "title": "PR",
+        "slug": "pr",
+        "link": "#pr",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "PS",
+        "slug": "ps",
+        "link": "#ps",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "AU",
+        "slug": "au",
+        "link": "#au",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "达芬奇",
+        "slug": "达芬奇",
+        "link": "#达芬奇",
+        "children": []
+      }
+    ],
+    "path": "/PR/ALL.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "短剧",
+    "headers": [
+      {
+        "level": 2,
+        "title": "pr短剧",
+        "slug": "pr短剧",
+        "link": "#pr短剧",
+        "children": [
+          {
+            "level": 3,
+            "title": "男频",
+            "slug": "男频",
+            "link": "#男频",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "女频",
+            "slug": "女频",
+            "link": "#女频",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "如何配置音乐和音效",
+        "slug": "如何配置音乐和音效",
+        "link": "#如何配置音乐和音效",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "AU调整声音",
+        "slug": "au调整声音",
+        "link": "#au调整声音",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "iZotope RX 8 Audio Editor修改声音",
+        "slug": "izotope-rx-8-audio-editor修改声音",
+        "link": "#izotope-rx-8-audio-editor修改声音",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "达芬奇进行视频降噪",
+        "slug": "达芬奇进行视频降噪",
+        "link": "#达芬奇进行视频降噪",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "PR调色",
+        "slug": "pr调色",
+        "link": "#pr调色",
+        "children": []
+      }
+    ],
+    "path": "/PR/PR.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "BOOTSTRAP响应式",
     "headers": [
       {
@@ -3401,107 +3559,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "集合",
-    "headers": [
-      {
-        "level": 2,
-        "title": "PR",
-        "slug": "pr",
-        "link": "#pr",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "PS",
-        "slug": "ps",
-        "link": "#ps",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "AU",
-        "slug": "au",
-        "link": "#au",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "达芬奇",
-        "slug": "达芬奇",
-        "link": "#达芬奇",
-        "children": []
-      }
-    ],
-    "path": "/PR/ALL.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "短剧",
-    "headers": [
-      {
-        "level": 2,
-        "title": "pr短剧",
-        "slug": "pr短剧",
-        "link": "#pr短剧",
-        "children": [
-          {
-            "level": 3,
-            "title": "男频",
-            "slug": "男频",
-            "link": "#男频",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "女频",
-            "slug": "女频",
-            "link": "#女频",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "如何配置音乐和音效",
-        "slug": "如何配置音乐和音效",
-        "link": "#如何配置音乐和音效",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "AU调整声音",
-        "slug": "au调整声音",
-        "link": "#au调整声音",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "iZotope RX 8 Audio Editor修改声音",
-        "slug": "izotope-rx-8-audio-editor修改声音",
-        "link": "#izotope-rx-8-audio-editor修改声音",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "达芬奇进行视频降噪",
-        "slug": "达芬奇进行视频降噪",
-        "link": "#达芬奇进行视频降噪",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "PR调色",
-        "slug": "pr调色",
-        "link": "#pr调色",
-        "children": []
-      }
-    ],
-    "path": "/PR/PR.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "C",
     "headers": [],
     "path": "/Api/C/c.html",
@@ -3516,9 +3573,9 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "JAVA",
+    "title": "Go",
     "headers": [],
-    "path": "/Api/Java/java.html",
+    "path": "/Api/Go/go.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -3526,6 +3583,13 @@ export const searchIndex = [
     "title": "Nginx",
     "headers": [],
     "path": "/Api/Nginx/nginx.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "JAVA",
+    "headers": [],
+    "path": "/Api/Java/java.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -3563,13 +3627,6 @@ export const searchIndex = [
     "title": "Python",
     "headers": [],
     "path": "/Api/Python/Python.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Go",
-    "headers": [],
-    "path": "/Api/Go/go.html",
     "pathLocale": "/",
     "extraFields": []
   },
